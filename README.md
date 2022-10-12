@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**nickruggeri/nickruggeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Nicolò Ruggeri**.
 
-Here are some ideas to get you started:
+I am a PhD student at [MPI for Intelligent Systems](https://is.mpg.de/) and [ETH](https://ethz.ch/de.html). \
+Respectively, my supervisors are Dr. [Caterina De Bacco](https://www.cdebacco.com/) and Prof. [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More info about me and my research can be found at: \
+🔗 [nickruggeri.github.io](https://nickruggeri.github.io/)
+
+Please do not hesitate to get in touch at: \
+📧 nicolo.ruggeri@tuebingen.mpg.de \
+📧 nicolo.ruggeri@inf.ethz.ch 
+
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickruggeri&hide=issues&show_icons=true)
