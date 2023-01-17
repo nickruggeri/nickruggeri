@@ -13,4 +13,4 @@ Please do not hesitate to get in touch at: \
 📧 nicolo.ruggeri@inf.ethz.ch 
 
 #
-![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=nickruggeri&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=nickruggeri&hide=issues&show_icons=true&count_private=true)
