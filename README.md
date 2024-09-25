@@ -3,7 +3,7 @@
 My name is **Nicolò Ruggeri**.
 
 I am a PhD student at [MPI for Intelligent Systems](https://is.mpg.de/) and [ETH](https://ethz.ch/de.html). \
-Respectively, my supervisors are Dr. [Caterina De Bacco](https://www.cdebacco.com/) and Prof. [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/). 
+Respectively, my supervisors are Prof. [Caterina De Bacco](https://www.cdebacco.com/) and Prof. [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/). 
 
 More info about me and my research can be found at: \
 🔗 [nickruggeri.github.io](https://nickruggeri.github.io/)
