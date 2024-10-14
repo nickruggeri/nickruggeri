@@ -2,14 +2,15 @@
 
 My name is **Nicolò Ruggeri**.
 
-I am a PhD student at [MPI for Intelligent Systems](https://is.mpg.de/) and [ETH](https://ethz.ch/de.html). \
-Respectively, my supervisors are Prof. [Caterina De Bacco](https://www.cdebacco.com/) and Prof. [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/). 
+I am a Machine Learning Scientist interested in generative models, approximate inference, graphs and complex systems, and applications to biological problems.
+
+I received my Ph.D. from [MPI for Intelligent Systems](https://is.mpg.de/) and [ETH Zurich](https://ethz.ch/de.html). \
+Respectively supervised by Prof. [Caterina De Bacco](https://www.cdebacco.com/) and Prof. [Fanny Yang](https://sml.inf.ethz.ch/group/fannyy/). 
 
 More info about me and my research can be found at: \
 🔗 [nickruggeri.github.io](https://nickruggeri.github.io/)
 
 Please do not hesitate to get in touch at: \
-📧 nicolo.ruggeri@tuebingen.mpg.de \
 📧 nicolo.ruggeri@inf.ethz.ch 
 
 #
